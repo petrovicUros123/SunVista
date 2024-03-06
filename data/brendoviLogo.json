@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "src" : "assets/img/rayban1.png",
+        "alt":"Ray Ban"
+    },
+    {
+        "id":2,
+        "src" : "assets/img/dolce1.png",
+        "alt":"Dolce & Gabanna"
+    },
+    {
+        "id":3,
+        "src" : "assets/img/armani1.png",
+        "alt":"Armani"
+    },
+    {
+        "id":4,
+        "src" : "assets/img/tomford1.png",
+        "alt":"Tom Ford"
+    },
+    {
+        "id":5,
+        "src" : "assets/img/prada1.png",
+        "alt":"Prada"
+    },
+    {
+        "id":6,
+        "src" : "assets/img/versace1.png",
+        "alt":"Versace"
+    }
+]

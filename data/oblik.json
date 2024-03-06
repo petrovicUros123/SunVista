@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "naziv" : "Okrugli"
+    },
+    
+    {
+        "id":2,
+        "naziv" : "Četvrtasti"
+    },
+    
+    {
+        "id":3,
+        "naziv" : "Zaobljeni"
+    }
+]

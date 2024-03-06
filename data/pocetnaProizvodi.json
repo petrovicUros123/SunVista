@@ -1,0 +1,328 @@
+[
+    {
+        "id":1,
+        "naziv":"Ray Ban",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/rb10.jpg",
+        "cena":{
+            "stara": 199,
+            "aktuelna": 159
+        },
+        "pol" : "M",
+         "polId": 1,
+        "oblik" : 3,
+        "idBrenda":1
+    },
+
+    {
+        "id":2,
+        "naziv":"Dolce & Gabbana",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/db10.jpg",
+        "cena":{
+            "stara": 599,
+            "aktuelna": 499
+        },
+        "pol": "Z",
+        "polId": 2,
+        "oblik" : 2,
+        "idBrenda":2
+    },
+
+    {
+        "id":3,
+        "naziv":"Armani",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/ax10.jpg",
+        "cena":{
+            "stara": 349,
+            "aktuelna": 299
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 3,
+        "idBrenda":3
+    },
+
+    {
+        "id":4,
+        "naziv":"Tom Ford",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/tf10.jpg",
+        "cena":{
+            "stara": 799,
+            "aktuelna": 699
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 2,
+        "idBrenda": 4
+    },
+    {
+        "id":5,
+        "naziv":"Tom Ford",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/tf20.jpg",
+        "cena":{
+            "stara": 499,
+            "aktuelna": 399
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 1,
+        "idBrenda": 4
+    },
+    {
+        "id":6,
+        "naziv":"Armani",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/ax20.jpg",
+        "cena":{
+            "stara": 699,
+            "aktuelna": 639
+        },
+        "pol" : "Z",
+        "polId": 1,
+        "oblik" : 1,
+        "idBrenda": 3
+    },
+    {
+        "id":7,
+        "naziv":"Ray Ban",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/rb20.jpg",
+        "cena":{
+            "stara": 199,
+            "aktuelna": 99
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 1,
+        "idBrenda": 1
+    },
+    {
+        "id":8,
+        "naziv":"Dolce & Gabbana",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/db20.jpg",
+        "cena":{
+            "stara": 499,
+            "aktuelna": 389
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 2,
+        "idBrenda": 2
+    },
+    {
+        "id":9,
+        "naziv":"Armani",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/ax30.jpg",
+        "cena":{
+            "stara": 399,
+            "aktuelna": 349
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 1,
+        "idBrenda": 3
+    },
+    {
+        "id":10,
+        "naziv":"Ray Ban",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/rb30.jpg",
+        "cena":{
+            "stara": 299,
+            "aktuelna": 249
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 2,
+        "idBrenda": 1
+    },
+    {
+        "id": 11,
+        "naziv":"Tom Ford",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/tf30.jpg",
+        "cena":{
+            "stara": 899,
+            "aktuelna": 799
+        },
+        "pol" : "M",
+        "polId": 2,
+        "oblik" : 1,
+        "idBrenda": 4
+    },
+    {
+        "id":12,
+        "naziv":"Dolce & Gabbana",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/db30.jpg",
+        "cena":{
+            "stara": 1099,
+            "aktuelna": 999
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 2,
+        "idBrenda": 2
+    },
+    {
+        "id":13,
+        "naziv":"Armani",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/ax40.jpg",
+        "cena":{
+            "stara": 699,
+            "aktuelna": 659
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 1,
+        "idBrenda": 3
+    },
+    {
+        "id":14,
+        "naziv":"Ray Ban",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/rb40.jpg",
+        "cena":{
+            "stara": 499,
+            "aktuelna": 429
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 1,
+        "idBrenda": 1
+    },
+    {
+        "id":15,
+        "naziv":"Tom Ford",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/tf40.jpg",
+        "cena":{
+            "stara": 789,
+            "aktuelna": 749
+        },
+        "pol" : "M",
+        "polId": 2,
+        "oblik" : 3,
+        "idBrenda": 4
+    },
+    {
+        "id":16,
+        "naziv":"Dolce & Gabbana",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/db40.jpg",
+        "cena":{
+            "stara": 929,
+            "aktuelna": 919
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 3,
+        "idBrenda": 2
+    },
+    {
+        "id":17,
+        "naziv":"Ray Ban",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/rb50.jpg",
+        "cena":{
+            "stara": 249,
+            "aktuelna": 229
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 1,
+        "idBrenda": 1
+    },
+    {
+        "id":18,
+        "naziv":"Tom Ford",
+        "artikal":"Sunčane naočare",
+        "model": "Ženske",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/tf50.jpg",
+        "cena":{
+            "stara": 939,
+            "aktuelna": 919
+        },
+        "pol" : "Z",
+        "polId": 2,
+        "oblik" : 3,
+        "idBrenda": 4
+    },
+    {
+        "id":19,
+        "naziv":"Dolce & Gabbana",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Italija",
+        "slika":"assets/img/db50.jpg",
+        "cena":{
+            "stara": 529,
+            "aktuelna": 509
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 2,
+        "idBrenda": 2
+    },
+
+    {
+        "id":20,
+        "naziv":"Armani",
+        "artikal":"Sunčane naočare",
+        "model": "Muške",
+        "zemljaPorekla": "Amerika",
+        "slika":"assets/img/ax50.png",
+        "cena":{
+            "stara": 159,
+            "aktuelna": 149
+        },
+        "pol" : "M",
+        "polId": 1,
+        "oblik" : 3,
+        "idBrenda": 3
+    }
+
+
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "id":"nazivAsc",
+        "opis": "Naziv [A-Z]"
+    },
+    
+    {
+        "id": "nazivDesc",
+        "opis": "Naziv [Z-A]"
+    },
+    
+    {
+        "id": "cenaAsc",
+        "opis": "Cena Rastuca"
+    },
+    
+    {
+        "id": "cenaDesc",
+        "opis": "Cena Opadajuca"
+    }
+]

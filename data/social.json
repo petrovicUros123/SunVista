@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "src":"fa-brands fa-facebook",
+        "href": "https://www.facebook.com/",
+        "klasa" : "ikonica"
+    },
+    {
+        "id":2,
+        "src":"fa-brands fa-instagram",
+        "href": "https://www.instagram.com/",
+        "klasa" : "ikonica"
+    },
+    {
+        "id":3,
+        "src":"fa-solid fa-sitemap",
+        "href": "sitemap.xml",
+        "klasa" : "ikonica"
+    }
+]

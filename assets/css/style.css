@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+@keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: orangered; 
+    border-radius: 10px;
+  }
+
+#menu li a:hover{
+    text-decoration: underline;
+    color: #ff4500;
+}
+
+a{
+    text-decoration: none;
+    color: orangered
+}
+img{
+    width: 100%;
+}
+#navbarNav{
+    flex-grow: 0
+}
+
+#menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    
+}
+
+#menu li{
+    margin-right: 20px;
+}
+
+#menu li a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#cover{
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/cover3.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+}
+
+#textCover{
+    width: 50%;
+    text-align: center;
+    margin: 0px auto;
+    color: #ffffff; 
+}
+
+#textCover h1{
+   font-weight: bold;
+}
+
+.btnProizvodi{
+    width: 120px;
+    height: 50px;
+    border: 2px solid orangered;
+    color: orangered;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: transparent;
+    margin-top: 15px;
+}
+
+
+.btnProizvodi a{
+    color: orangered;
+    
+}
+
+.pocetneSlike{
+    border-radius: 20px;
+}
+
+#abt1 img{
+    transition: 1s ease;
+    }
+    
+    #abt1 img:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(0.9);
+    transition: 1s ease;
+    }
+
+.card{
+    border: none;
+    
+}
+
+sup{
+    text-decoration: line-through;
+}
+
+.cenaAktuelna{
+    font-size: 25px;
+}
+
+#divMuskiOpis{
+    display: flex;
+    align-items: center;
+}
+
+.fa-solid, .fa-brands{
+    font-size: 30px;
+    color: orangered;
+    animation: rotate 6s linear infinite;
+}
+
+.baner{
+    text-align: center;
+    
+}
+
+#divKorpa{
+    text-align: center;
+}
+
+#bN{
+    background-color: #f3f3f3;
+    display: flex;
+}
+
+#footerNav{
+    list-style-type: none;
+    
+}
+
+#navFooter{
+    text-align: center;
+}
+
+#socialFooter{
+    text-align: center;
+}
+footer{
+    background-color: #f3f3f3;
+    display: flex;
+    align-items: center;
+}
+
+.ikonica{
+   animation: none;
+    margin-left: 15px;
+}
+
+#logoFooter{
+    text-align: center;
+}
+
+#send{
+    background-color: orangered;
+}
+
+#filterDiv{
+    background-color: #f3f3f3;
+    height: 500px;
+    text-align: center;
+}
+
+.green{
+    border: 1px solid #008000;
+}
+.red{
+    border: 1px solid #ff0000;
+}
+
+.dodaj{
+    background-color: #ff4500;
+    color: #ffffff
+}
+
+#brisanje, #posalji{
+    font-size: 15px;
+}
+
+#backToTop{
+    width: 50px;
+    height: 50px;
+    background-color: #ff4500;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    display: none;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+.fa-arrow-up{
+    color: #ffffff;
+    font-size: 50px;
+    animation: none;
+}
+
+@media screen and (max-width: 780px) {
+    .btnProizvodi{
+        width: 80px;
+        height: 40px;
+        font-size: 15px;
+    }
+
+    .fa-arrow-up{
+        font-size: 40px;
+    }
+
+    #backToTop{
+        width: 30px;
+        height: 30px;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    #brisanje, #posalji{
+        font-size: 12px;
+    }
+
+    th{
+        font-size: 12px;
+    }
+
+}
+
+
+
+

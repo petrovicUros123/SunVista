@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "src" : "fa-solid fa-truck",
+        "opis": "Besplatna dostava"
+        
+    },
+
+    {
+        "id":2,
+        "src" : "fa-solid fa-money-bill-transfer",
+        "opis": "Zagarantovan povrat novca" 
+    },
+
+    {
+        "id":3,
+        "src":"fa-solid fa-lock",
+        "opis":"Sigurno plaćanje"
+    }
+
+]

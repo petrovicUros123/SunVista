@@ -1,0 +1,23 @@
+[
+    {
+        "href": "index.html",
+        "tekst": "Početna"
+    },
+    {
+        "href": "shop.html",
+        "tekst": "Proizvodi"
+    },
+    {
+        "href": "contact.html",
+        "tekst": "Kontakt"
+    },
+    {
+        "href": "author.html",
+        "tekst": "Autor"
+    },
+    {
+        "href": "korpa.html",
+        "tekst": "Korpa"
+    }
+
+]
