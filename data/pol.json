@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "opis": "Muske",
+        "opis": "Muške",
         "oznaka" :"M"
     },
     {
         "id":2,
-        "opis": "Zenske",
+        "opis": "Ženske",
         "oznaka" :"Z"
     }
 ]
